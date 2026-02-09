@@ -1,0 +1,8 @@
+{
+  "name": "Mera SGG - Sant Gahira Guru University Portal",
+  "description": "The official next-gen digital portal for Sant Gahira Guru Vishwavidyalaya, Ambikapur. Streamlining academic management, student portals, and administrative workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
